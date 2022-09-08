@@ -7,7 +7,6 @@
 
 /**
  * main - prints "Programming is like building a multilingual puzzle,followed by a new line.
- *
  * return: is always 0.
  */
 int main(void)
