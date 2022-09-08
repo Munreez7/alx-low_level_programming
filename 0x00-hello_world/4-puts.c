@@ -6,8 +6,9 @@
 #include <stdio.h>
 
 /**
- * Main - Program prints the outlined text followe by a new line
- * Return: is always 0.
+ * main - prints the outlined text followed by a new line
+ * 
+ * return: is always 0.
  */
 int main(void)
 {
