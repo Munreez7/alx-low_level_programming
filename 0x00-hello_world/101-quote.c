@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
-  * Description: Main-prints out str
+  * main-prints out str
   *
   * Return: 1 if successful
   */
