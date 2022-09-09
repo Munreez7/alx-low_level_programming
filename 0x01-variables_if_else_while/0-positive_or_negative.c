@@ -8,7 +8,7 @@
   */
 
 /* function main - runs the program */
-int main(void)
+int main(void) /* int -integer */
 {
 	int n;
 
@@ -16,15 +16,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0) /* this is the condition */
 { /* if condition is true print the following */
-	printf("is positive\n");
+	printf("%d is positive\n", n);
 } /* if condition is true,print */
 else if (n == 0)
 { /* if else if is true */
-	printf("is zero\n");
+	printf("%d is zero\n", n);
 } /*if else if is true, print */
 else
 { /* if none of the above is true */
-	printf("is negative\n");
+	printf("%d is negative\n", n);
 }
 
 	return (0);
