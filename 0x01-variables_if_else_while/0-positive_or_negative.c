@@ -4,7 +4,7 @@
 /**
   *main - entry point
   *description - program will assign a random number to the variable n
-  *return: 0
+  *Return: 0 (Success)
   */
 
 /* function main - runs the program */
