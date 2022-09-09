@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * Description: Main-prints out a string stdio
- *
- * Return: 0 if successful
+ * Main - Entry point
+ * Description: 'sizes ofdifferent types'
+ * Return: 0
  */
 int main(void)
-{
-	int a;
+{	int a;
 	long int b;
 	long long int c;
 	char d;
