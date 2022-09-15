@@ -1,0 +1,17 @@
+#!/bin/bash
+
+git status
+
+git add .
+
+quotation='"'
+
+echo "Commit message"
+read commit
+
+git commit -m $quotation"$commit"$quotation
+
+git push
+
+git status
+
